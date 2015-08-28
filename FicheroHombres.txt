@@ -1,0 +1,6 @@
+1 30000 25 Juan Luis Antunez
+2 25000 28 Anacleto Agente Secreto
+4 18000 56 Dr Bacterio Perez
+3 40000 20 Sacarino Angulez
+3 60000 40 Groucho Marconez
+2 40000 22 Jose Luis Samsung

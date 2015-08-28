@@ -1,0 +1,5 @@
+2 90000 20 Maria de la Flor Artocha
+3 10000 30 Josefina Rockefort
+3 120000 89 Angustias Antigua
+4 110000 40 Dra Mercedes Lisboa
+1 200000 30 Alicia Artesonado
